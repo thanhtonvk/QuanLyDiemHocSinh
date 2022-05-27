@@ -9,10 +9,7 @@ import javax.swing.table.DefaultTableModel;
 import quanlydiemhocsinh.DAO.MonHocDAO;
 import quanlydiemhocsinh.Model.MonHoc;
 
-/**
- *
- * @author TonDZ
- */
+
 public class MonHocGUI extends javax.swing.JFrame {
 
     /**

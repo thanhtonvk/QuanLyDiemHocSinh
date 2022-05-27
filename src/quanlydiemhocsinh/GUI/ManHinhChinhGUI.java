@@ -4,10 +4,7 @@
  */
 package quanlydiemhocsinh.GUI;
 
-/**
- *
- * @author TonDZ
- */
+
 public class ManHinhChinhGUI extends javax.swing.JFrame {
 
     /**

@@ -13,10 +13,7 @@ import quanlydiemhocsinh.Model.CTDiem;
 import quanlydiemhocsinh.Model.Common;
 import quanlydiemhocsinh.Model.MonHoc;
 
-/**
- *
- * @author TonDZ
- */
+
 public class CTDiemGUI extends javax.swing.JFrame {
 
     /**

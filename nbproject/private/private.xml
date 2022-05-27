@@ -3,13 +3,22 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/D:/Java/QuanLyDiemHocSinh/src/quanlydiemhocsinh/DAO/DiemDAO.java</file>
+            <file>file:/D:/Java/QuanLyDiemHocSinh/src/quanlydiemhocsinh/DAO/CTDiemDAO.java</file>
             <file>file:/D:/Java/QuanLyDiemHocSinh/src/quanlydiemhocsinh/Model/CTDiem.java</file>
-            <file>file:/D:/Java/QuanLyDiemHocSinh/src/quanlydiemhocsinh/Database/database.sql</file>
             <file>file:/D:/Java/QuanLyDiemHocSinh/src/quanlydiemhocsinh/DAO/HocSinhDAO.java</file>
-            <file>file:/D:/Java/QuanLyDiemHocSinh/src/quanlydiemhocsinh/Database/DBHelper.java</file>
-            <file>file:/D:/Java/QuanLyDiemHocSinh/src/quanlydiemhocsinh/Model/HocSinh.java</file>
+            <file>file:/D:/Java/QuanLyDiemHocSinh/src/quanlydiemhocsinh/DAO/MonHocDAO.java</file>
+            <file>file:/D:/Java/QuanLyDiemHocSinh/src/quanlydiemhocsinh/GUI/CTDiemGUI.java</file>
             <file>file:/D:/Java/QuanLyDiemHocSinh/src/quanlydiemhocsinh/Model/Diem.java</file>
             <file>file:/D:/Java/QuanLyDiemHocSinh/src/quanlydiemhocsinh/QuanLyDiemHocSinh.java</file>
+            <file>file:/D:/Java/QuanLyDiemHocSinh/src/quanlydiemhocsinh/Database/database.sql</file>
+            <file>file:/D:/Java/QuanLyDiemHocSinh/src/quanlydiemhocsinh/GUI/HocSinhGUI.java</file>
+            <file>file:/D:/Java/QuanLyDiemHocSinh/src/quanlydiemhocsinh/GUI/MonHocGUI.java</file>
+            <file>file:/D:/Java/QuanLyDiemHocSinh/src/quanlydiemhocsinh/Database/DBHelper.java</file>
+            <file>file:/D:/Java/QuanLyDiemHocSinh/src/quanlydiemhocsinh/GUI/ManHinhChinhGUI.java</file>
+            <file>file:/D:/Java/QuanLyDiemHocSinh/src/quanlydiemhocsinh/GUI/DiemGUI.java</file>
+            <file>file:/D:/Java/QuanLyDiemHocSinh/src/quanlydiemhocsinh/Model/HocSinh.java</file>
+            <file>file:/D:/Java/QuanLyDiemHocSinh/src/quanlydiemhocsinh/Model/Common.java</file>
             <file>file:/D:/Java/QuanLyDiemHocSinh/src/quanlydiemhocsinh/Model/MonHoc.java</file>
         </group>
     </open-files>
