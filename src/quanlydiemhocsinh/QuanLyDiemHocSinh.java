@@ -4,6 +4,8 @@
  */
 package quanlydiemhocsinh;
 
+import quanlydiemhocsinh.GUI.ManHinhChinhGUI;
+
 /**
  *
  * @author TonDZ
@@ -15,6 +17,8 @@ public class QuanLyDiemHocSinh {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        ManHinhChinhGUI chinhGUI = new ManHinhChinhGUI();
+        chinhGUI.setVisible(true);
     }
     
 }
